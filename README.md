@@ -17,8 +17,6 @@ Objectives:
 
 
 
--- Create a Logistic Regression Model with the Original Data
-
 Link to Presentation: 
 -
 https://docs.google.com/presentation/d/1Mo1l2tTuU0GX8Cd6vGlm20XNIEPXt81BbK5w4hVvaBQ/edit?usp=sharing

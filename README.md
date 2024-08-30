@@ -2,7 +2,7 @@
 
 Synopsis:
 -
-Pull data from the World Health Organization to feed into an ARIMA Model (a type of Time Series Forecasting). We wanted to see if we could provide helpful data on the ongoing COVID-19 endemic.
+We pulled data from the World Health Organization to feed into an ARIMA Model (a type of Time Series Forecasting). Our intention was to see if we could provide helpful data on the ongoing COVID-19 endemic.
 
 
 Objectives:
